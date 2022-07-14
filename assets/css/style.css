@@ -128,7 +128,7 @@ header {
 #hero {
   position: relative;
   margin-top: 84px;
-  background: url("/Landing\ page\ 1/assets/images/hero.jpeg");
+  background: url("/LandingPage1/assets/images/hero.jpeg");
   height: calc(100vh - 83px);
   background-repeat: no-repeat;
   background-size: cover;
@@ -199,14 +199,14 @@ header {
 
 .about__img {
   width: 45%;
-  background-image: url("/Landing page 1/assets/images/about.jpeg");
+  background-image: url("/LandingPage1/assets/images/about.jpeg");
   background-size: cover;
   background-position: center;
 }
 
 .about__content {
   position: relative;
-  background-image: url("/Landing page 1/assets/images/about_content.png");
+  background-image: url("/LandingPage1/assets/images/about_content.png");
   background-position: 50% 50%;
   background-color: rgba(138, 138, 138, 0.13) !important;
   background-size: cover;
@@ -292,35 +292,35 @@ header {
 }
 
 .gallery__item:nth-child(1) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-1.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-1.jpeg");
 }
 
 .gallery__item:nth-child(2) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-2.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-2.jpeg");
 }
 
 .gallery__item:nth-child(3) {
-  background-image: url("/Landing page 1/assets/images/blog-2.jpeg");
+  background-image: url("/LandingPage1/assets/images/blog-2.jpeg");
 }
 
 .gallery__item:nth-child(4) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-4.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-4.jpeg");
 }
 
 .gallery__item:nth-child(5) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-5.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-5.jpeg");
 }
 
 .gallery__item:nth-child(6) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-6.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-6.jpeg");
 }
 
 .gallery__item:nth-child(7) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-7.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-7.jpeg");
 }
 
 .gallery__item:nth-child(8) {
-  background-image: url("/Landing page 1/assets/images/gallery-list-8.jpeg");
+  background-image: url("/LandingPage1/assets/images/gallery-list-8.jpeg");
 }
 
 .gallery__item {
@@ -417,7 +417,7 @@ header {
 
 .customer-hero {
   background-color: #000;
-  background-image: url("/Landing page 1/assets/images/customer.jpeg");
+  background-image: url("/LandingPage1/assets/images/customer.jpeg");
   background-position: 50% 50%;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -458,7 +458,7 @@ header {
   height: 90px;
   border-radius: 50%;
   overflow: hidden;
-  background-image: url("/Landing page 1/assets/images/customer-avatar.jpeg");
+  background-image: url("/LandingPage1/assets/images/customer-avatar.jpeg");
   background-position: 50% 50%;
   margin-bottom: 40px;
   margin-left: auto;
@@ -566,7 +566,7 @@ header {
 /* Next */
 
 .next {
-  background-image: url("/Landing page 1/assets/images/about_content.png");
+  background-image: url("/LandingPage1/assets/images/about_content.png");
   background-size: cover;
   background-position: center;
   background-color: rgba(138, 138, 138, 0.13) !important;
